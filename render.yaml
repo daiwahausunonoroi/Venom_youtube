@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-barenntainnotoko-blog
+    name: xn--haruto-418yuki-f73m2m2u
     env: python
     region: Oregon
     plan: free
